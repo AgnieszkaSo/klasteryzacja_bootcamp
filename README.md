@@ -5,11 +5,11 @@ Repozytorium zawiera materiały z zajęć odbywających się w ramach bootcampu 
 
 1. Oprócz dotychczas używanych bibliotek w Jupyter Notebook (pandas, numpy, matplotlib, sklearn, scipy) proszę zainstalować i przetestować wczytywanie następujących bibliotek:
 
-kneed,
+kneed
 
-time,
+time
 
-joblib,
+joblib
 
 itertools
 
