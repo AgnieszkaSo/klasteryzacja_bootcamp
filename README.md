@@ -15,4 +15,7 @@ itertools
 
 2. Proszę zapisać w katalogu roboczym zbiór danych heart.csv.
 
-3. Prezentacja w pdf i 2 pliki Jupyter Notebook, na których będziemy pracowali w sobotę i niedzielę pojawią się na Github w piątek do 13. 
+3. Plik bootcamp_kalsteryzacja1.ipynb to ten, na którym będziemy pracowali w sobotę.
+
+4. W piątek zamieszczę prezentację w pdf i plik bootcamp_kalsteryzacja2.ipynb na niedzielę.
+
